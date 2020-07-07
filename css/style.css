@@ -55,5 +55,11 @@ i {
 }
 
 .carousel {
-    border: solid #5637DD
+    
+}
+
+#carouselButton {
+    position: absolute;
+    right: 1;
+    bottom: 0;
 }
